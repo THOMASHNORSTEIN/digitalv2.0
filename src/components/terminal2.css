@@ -1,0 +1,76 @@
+
+:root{
+    --color1: #80FF72;
+    --color2: #7EE8FA;
+    --color3: #ffd60abb;
+    --color4: #8338ec;
+    --color5: #d00000a5;
+  }
+.term2{
+  width: 40%;
+  height: 500px;
+  display: grid;
+  grid-template-columns: auto auto;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--color1);
+  border: 5px solid var(--color4);
+  border-radius: 20px;
+  box-shadow: 10px 10px 10px 2px var(--color3);
+  gap: 10px;
+}
+.term2-div1{
+  background-color: var(--color2);
+  width: 90px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+}
+.term2-div2{
+  background-color: var(--color2);
+  width: 90px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+}
+.term2-div3{
+  background-color: var(--color2);
+  width: 90px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+}
+.term2-div4{
+  background-color: var(--color2);
+  width: 90px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+}
+.term2-div5{
+  background-color: var(--color2);
+  width: 90px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+}
+.term2-div6{
+  background-color: var(--color2);
+  width: 90px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+}
+

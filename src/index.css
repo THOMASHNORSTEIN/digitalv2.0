@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  margin: 0;
+  padding: 0;
+}
+:root{
+  --color1: #80FF72;
+  --color2: #7EE8FA;
+  --color3: #ffd60abb;
+  --color4: #8338ec;
+  --color5: #ff0000a3;
+}
+.App{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100vh;
+  background-color: var(--color5);
+  gap: 30px;
+}
